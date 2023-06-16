@@ -6,7 +6,7 @@ Example Gradle project producing a single jar. Uses the `maven` plugin to publis
 
 [https://jitpack.io/#jitpack/gradle-simple](https://jitpack.io/#jitpack/gradle-simple)
 
-To install the library add: 
+Modify To install the library add: 
  
    ```gradle
    repositories { 

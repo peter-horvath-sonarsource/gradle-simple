@@ -1,0 +1,7 @@
+organization=default-organization
+projectKey=default-organization_gradle-simple
+serverUrl=https://pr-5590-core.sc-dev.io
+serverVersion=8.0.0.43268
+dashboardUrl=https://pr-5590-core.sc-dev.io/dashboard?id=default-organization_gradle-simple
+ceTaskId=AYkbNBc8xHb4oSbU1Hl5
+ceTaskUrl=https://pr-5590-core.sc-dev.io/api/ce/task?id=AYkbNBc8xHb4oSbU1Hl5

@@ -6,6 +6,7 @@ public class Hello {
   public static String GREETING3 = "Hello world!";
   public static String GREETING4 = "Hello world!";
   public static String GREETING5 = "Hello world!";
+  public static String GREETING6 = "Hello world!";
   
   public static void main(String []args) {
     
